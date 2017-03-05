@@ -1,6 +1,6 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
-* Студент: [Мария Сенина](https://up.htmlacademy.ru/adaptive/10/user/236140).
+* Студент: [Екатерина Тараканова].
 * Наставник: `Неизвестно`.
 
 ---
