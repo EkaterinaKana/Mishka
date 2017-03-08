@@ -1,7 +1,7 @@
 # Личный проект «Мишка» [![Build status][travis-image]][travis-url] [![Dependency status][dependency-image]][dependency-url]
 
 * Студент: [Екатерина Тараканова].
-* Наставник: `Неизвестно`.
+* Наставник: `Неизвестно 2323`.
 
 ---
 
